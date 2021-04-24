@@ -1,0 +1,3 @@
+export CORPUS_STD=${REPO_ROOT}/standard
+export  CORPUS_BF=${REPO_ROOT}/brute-force
+export CORPUS_ENG=${REPO_ROOT}/engineered
